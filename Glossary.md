@@ -1,12 +1,20 @@
 # Gloassary
 
 ## Metrics and KPIs
+### Definitions
 * [Stickiness](https://www.adjust.com/glossary/user-stickiness/) in marketing is a metric that gauges the frequency and depth of user engagement with an app to assess likelihood of continued engagement over time.
 * An [app engagement](https://www.adjust.com/glossary/engagement/) is an interaction between a user and a mobile application/app. Engagement is measured by examining multiple metrics in tandem to produce a picture of how users are interacting with an app. Mobile advertisers use app engagement to assess and measure how their mobile campaigns are performing. Among other in-app figures, the number of in-app events triggered and how usage is affected by advertising campaigns are taken into consideration to measure engagement and user retention.
 
-
-
-
+### Metrics
+* Retention
+   - Retention Rate = (Users retained at end of period / Users at the start of period) × 100
+* Sessions | Sessions refer to the number of distinct visits a user makes, often counted when a user interacts with a site or app within a given timeframe. The total session count could vary based on how you define a "session" (e.g., 30-minute intervals).
+  - Total Sessions is often simply counted by tracking each start of user engagement within the specified period.
+* Session lengths
+  - Average Session Length =Total time spent across all sessions /  Total number of sessions
+* Daily active users (DAUs) /monthly active users (MAUs)
+* Stickiness
+* Churn rate
 
 -----
 ## General
