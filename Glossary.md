@@ -26,4 +26,13 @@
 * **SMO**, or Social Media Optimization, is the practice of enhancing a brand's visibility and engagement on social media platforms through optimized profiles, shareable content, and interaction strategies.
 * **Single Point of Ownership (SPO)** Framework: This framework would assign a single person or team as the accountable entity for specific tasks, processes, or projects. It’s designed to clarify roles, reduce redundancies, and streamline communication, making sure each initiative has a clear "owner" responsible for its success.
 
+* A **"gesture"** refers to the various touch interactions a user makes with the screen on a mobile device. These gestures are tracked to understand user behavior and interaction with the app. These gestures provide insights into user engagement and usability, helping analysts identify areas of the app where users interact the most, encounter difficulties, or abandon tasks.
+  1. **Tap**: A single quick touch on the screen, typically used for selecting or activating elements.
+  2. **Double Tap**: Two quick taps in succession, often used for zooming in or other app-specific functions.
+  3. **Long Press**: A touch held down for a longer period, usually to access additional options or initiate drag-and-drop actions.
+  4. **Swipe**: A quick, directional movement (up, down, left, or right) used for scrolling, navigating between screens, or dismissing elements.
+  5. **Pinch**: A two-finger gesture where the fingers are brought together to zoom out or pulled apart to zoom in.
+  6. **Drag**: Moving an element from one part of the screen to another by holding down and moving the finger.
+
+
 -----
