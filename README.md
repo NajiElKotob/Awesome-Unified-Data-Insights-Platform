@@ -17,3 +17,4 @@
 ## Links (URLs)
 * [How To Set up Universal Links for iOS and Android?](https://www.axon.dev/blog/how-to-set-up-universal-links-for-ios-and-android) - axon.dev
 * [What is deep linking?](https://www.adjust.com/glossary/deep-linking#what_is_deep_linking) - adjust.com
+* [Learn How To Create UTM Links and Understand Why You Need Them](https://mailchimp.com/resources/utm-links/) - mailchimp.com
