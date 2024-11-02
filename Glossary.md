@@ -15,7 +15,9 @@
 * Daily active users (DAUs), Monthly active users (MAUs) | This ratio measures the frequency of user engagement over time, giving insight into user stickiness and engagement. This metric indicates the percentage of monthly users who return daily.
   - DAU/MAU Ratio = (Daily Active Users / Monthly Active Users) × 100
 * Stickiness
-* Churn rate
+* Churn rate | Churn rate measures the percentage of users who stop using a product within a specified period.
+  - Churn Rate = (Users lost during period / Total users at start of period) × 100
+
 
 -----
 ## General
