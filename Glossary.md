@@ -12,7 +12,8 @@
   - Total Sessions is often simply counted by tracking each start of user engagement within the specified period.
 * Session lengths
   - Average Session Length =Total time spent across all sessions /  Total number of sessions
-* Daily active users (DAUs) /monthly active users (MAUs)
+* Daily active users (DAUs), Monthly active users (MAUs) | This ratio measures the frequency of user engagement over time, giving insight into user stickiness and engagement. This metric indicates the percentage of monthly users who return daily.
+  - DAU/MAU Ratio = (Daily Active Users / Monthly Active Users) × 100
 * Stickiness
 * Churn rate
 
