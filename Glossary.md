@@ -2,6 +2,8 @@
 
 ## Metrics and KPIs
 * [Stickiness](https://www.adjust.com/glossary/user-stickiness/) in marketing is a metric that gauges the frequency and depth of user engagement with an app to assess likelihood of continued engagement over time.
+* An [app engagement](https://www.adjust.com/glossary/engagement/) is an interaction between a user and a mobile application/app. Engagement is measured by examining multiple metrics in tandem to produce a picture of how users are interacting with an app. Mobile advertisers use app engagement to assess and measure how their mobile campaigns are performing. Among other in-app figures, the number of in-app events triggered and how usage is affected by advertising campaigns are taken into consideration to measure engagement and user retention.
+
 
 
 
