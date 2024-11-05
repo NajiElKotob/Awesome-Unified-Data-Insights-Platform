@@ -9,6 +9,11 @@
 * [Google Cloud Platform (GCP)](https://cloud.google.com) - cloud.google.com
 * [Amazon Web Services (AWS)](https://aws.amazon.com/) - aws.amazon.com
 
+
+## Tools and Platforms
+### Firebase
+* [Introducing Google Analytics for Firebase 📺 ~3min](https://www.youtube.com/watch?v=8iZpH7O6zXo&list=PLl-K7zZEsYLkV1DCmC8Vj9Wl9hjVI2AJm&index=1)
+
 ## General Knowledge
 ### Unique ID
 * [GAID (Google Advertising ID)](https://www.appsflyer.com/glossary/gaid/) - appsflyer.com | Google Advertising ID — aka GAID, aka Android ID, aka Android Advertising ID (AAID) — is a unique device identifier that enables app developers and marketers to measure campaign performance and user behavior across media sources, without compromising user privacy.
