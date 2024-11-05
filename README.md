@@ -3,6 +3,7 @@
 
 ## Mobile Attribution and Analytics Platforms
 * [Adjust](https://www.adjust.com/) - adjust.com
+  - [Ebooks](https://www.adjust.com/resources/ebooks/) - Learn the ins and outs of mobile app marketing with whitepapers, ebooks, industry guides, and more.
   - [Getting started with Adjust 📺 ~13min](https://help.adjust.com/en/article/getting-started-with-adjust)
 
 ## Cloud Ecosystems
