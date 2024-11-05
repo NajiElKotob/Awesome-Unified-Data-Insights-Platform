@@ -13,6 +13,7 @@
 ## Tools and Platforms
 ### Firebase
 * [Introducing Google Analytics for Firebase 📺 ~3min](https://www.youtube.com/watch?v=8iZpH7O6zXo&list=PLl-K7zZEsYLkV1DCmC8Vj9Wl9hjVI2AJm&index=1)
+* [Add Firebase to your Flutter app: The fast way 📺 ~3min](https://www.youtube.com/watch?v=FkFvQ0SaT1I)
 
 ## General Knowledge
 ### Unique ID
