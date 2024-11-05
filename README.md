@@ -3,6 +3,7 @@
 
 ## Mobile Attribution and Analytics Platforms
 * [Adjust](https://www.adjust.com/) - adjust.com
+  - [Getting started with Adjust 📺 ~13min](https://help.adjust.com/en/article/getting-started-with-adjust)
 
 ## Cloud Ecosystems
 * [Microsoft Fabric](https://www.microsoft.com/en-us/microsoft-fabric) - microsoft.com
