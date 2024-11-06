@@ -16,6 +16,9 @@
 `Create personalized experiences to retain your most valuable customers, forever, with CleverTap’s All-In-One engagement platform.`
 ### Sprout Social
 `Our all-in-one social media management platform unlocks the full potential of social to transform not just your marketing strategy—but every area of your organization.`
+### AIM Insights
+`Obtain a multilingual analysis of brand interactions, consumer sentiment toward your brand.`
+
 
 -----
 ## Cloud Ecosystems
