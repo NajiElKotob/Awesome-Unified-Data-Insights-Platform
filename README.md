@@ -11,6 +11,7 @@
 * [Microsoft Fabric](https://www.microsoft.com/en-us/microsoft-fabric) - microsoft.com
 
 ### GCP
+* [Google Cloud's pricing calculator](https://cloud.google.com/products/calculator/?hl=en)
 * [Google Cloud Platform (GCP)](https://cloud.google.com) - cloud.google.com
 
 ### AWS
