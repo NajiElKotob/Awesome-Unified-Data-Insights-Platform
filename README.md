@@ -7,9 +7,15 @@
   - [Getting started with Adjust 📺 ~13min](https://help.adjust.com/en/article/getting-started-with-adjust)
 
 ## Cloud Ecosystems
+### Microsoft Fabric
 * [Microsoft Fabric](https://www.microsoft.com/en-us/microsoft-fabric) - microsoft.com
+
+### GCP
 * [Google Cloud Platform (GCP)](https://cloud.google.com) - cloud.google.com
+
+### AWS
 * [Amazon Web Services (AWS)](https://aws.amazon.com/) - aws.amazon.com
+
 
 
 ## Tools and Platforms
