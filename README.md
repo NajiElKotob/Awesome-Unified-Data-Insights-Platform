@@ -24,6 +24,7 @@
 ## Cloud Ecosystems
 ### Microsoft Fabric
 * [Microsoft Fabric](https://www.microsoft.com/en-us/microsoft-fabric) - microsoft.com
+* [Azure Architectures - Power BI](https://learn.microsoft.com/en-us/azure/architecture/browse/?filter-products=power&products=power-bi)
 
 ### GCP
 * [Google Cloud's pricing calculator](https://cloud.google.com/products/calculator/?hl=en)
