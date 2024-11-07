@@ -28,6 +28,7 @@
 ### GCP
 * [Google Cloud's pricing calculator](https://cloud.google.com/products/calculator/?hl=en)
 * [Google Cloud Platform (GCP)](https://cloud.google.com) - cloud.google.com
+* [What Data Pipeline Architecture should I use?](https://cloud.google.com/blog/topics/developers-practitioners/what-data-pipeline-architecture-should-i-use/)
 
 ### AWS
 * [Amazon Web Services (AWS)](https://aws.amazon.com/) - aws.amazon.com
