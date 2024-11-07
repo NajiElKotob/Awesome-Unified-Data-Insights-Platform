@@ -36,3 +36,6 @@
 
 
 -----
+
+## Security
+* [SDK spoofing](https://www.adjust.com/glossary/sdk-spoofing/) is the creation of legitimate-looking installs with data of real devices without the presence of any actual installs. Fraudsters utilize a real device to create installs that look real to consume an advertiser’s budget. It is also known as traffic spoofing and replay attacks.
