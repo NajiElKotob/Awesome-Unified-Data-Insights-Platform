@@ -7,8 +7,10 @@
   - [Ebooks](https://www.adjust.com/resources/ebooks/) - Learn the ins and outs of mobile app marketing with whitepapers, ebooks, industry guides, and more.
   - [Getting started with Adjust 📺 ~13min](https://help.adjust.com/en/article/getting-started-with-adjust)
 ### Firebase
-* [Introducing Google Analytics for Firebase 📺 ~3min](https://www.youtube.com/watch?v=8iZpH7O6zXo&list=PLl-K7zZEsYLkV1DCmC8Vj9Wl9hjVI2AJm&index=1)
-* [Add Firebase to your Flutter app: The fast way 📺 ~3min](https://www.youtube.com/watch?v=FkFvQ0SaT1I)
+* YouTube 
+  - [Introducing Google Analytics for Firebase 📺 ~3min](https://www.youtube.com/watch?v=8iZpH7O6zXo&list=PLl-K7zZEsYLkV1DCmC8Vj9Wl9hjVI2AJm&index=1)
+  - [Add Firebase to your Flutter app: The fast way 📺 ~3min](https://www.youtube.com/watch?v=FkFvQ0SaT1I)
+  - [Getting Started with Google Analytics for Firebase](https://www.youtube.com/playlist?list=PLI5YfMzCfRtYEZ0wAqMgX-SMTiy7tlhfN)
 ### Supermetrics
 `Streamline your marketing and sales data from every platform into one single source of truth. Get accurate, real-time insights to make smarter decisions. Experience the change now.`
 * [Supermetrics](https://supermetrics.com/) - supermetrics.com
