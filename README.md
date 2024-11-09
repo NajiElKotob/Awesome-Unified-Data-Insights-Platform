@@ -11,6 +11,8 @@
   - [Introducing Google Analytics for Firebase 📺 ~3min](https://www.youtube.com/watch?v=8iZpH7O6zXo&list=PLl-K7zZEsYLkV1DCmC8Vj9Wl9hjVI2AJm&index=1)
   - [Add Firebase to your Flutter app: The fast way 📺 ~3min](https://www.youtube.com/watch?v=FkFvQ0SaT1I)
   - [Getting Started with Google Analytics for Firebase](https://www.youtube.com/playlist?list=PLI5YfMzCfRtYEZ0wAqMgX-SMTiy7tlhfN)
+* Docs
+  - [Firebase launch checklist](https://firebase.google.com/support/guides/launch-checklist)
 ### Supermetrics
 `Streamline your marketing and sales data from every platform into one single source of truth. Get accurate, real-time insights to make smarter decisions. Experience the change now.`
 * [Supermetrics](https://supermetrics.com/) - supermetrics.com
