@@ -17,6 +17,7 @@
 ### Supermetrics
 `Streamline your marketing and sales data from every platform into one single source of truth. Get accurate, real-time insights to make smarter decisions. Experience the change now.`
 * [Supermetrics](https://supermetrics.com/) - supermetrics.com
+* [Accelerate marketing insights in Power BI](https://supermetrics.com/products/power-bi)
 ### CleverTap
 `Create personalized experiences to retain your most valuable customers, forever, with CleverTap’s All-In-One engagement platform.`
 ### Sprout Social
