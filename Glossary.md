@@ -6,7 +6,7 @@
 * An [app engagement](https://www.adjust.com/glossary/engagement/) is an interaction between a user and a mobile application/app. Engagement is measured by examining multiple metrics in tandem to produce a picture of how users are interacting with an app. Mobile advertisers use app engagement to assess and measure how their mobile campaigns are performing. Among other in-app figures, the number of in-app events triggered and how usage is affected by advertising campaigns are taken into consideration to measure engagement and user retention.
 * A mobile [app event](https://www.adjust.com/glossary/events/) is an action performed by users within an app. An app event can be anything a mobile marketer or developer determines is helpful to measure. Often discussed in mobile marketing, a revenue event is any action performed by users within an app that is connected to a monetary value. A few examples of mobile app events that might be measured include a user completing a level of a game, visiting a particular section of an app, or making a purchase. Any and all actions that are defined as an event can be tracked with your mobile measurement partner (MMP) to learn how users interact with your app.
 * [Reattribution](https://help.adjust.com/en/article/reattribution) is when an inactive user engages with a retargeting campaign, returns to your app, and gets assigned a new source.
-
+* StoreKit Ad Network, otherwise known as [SKAdNetwork](https://www.adjust.com/glossary/skadnetwork-skan/) or SKAN, is Apple’s API-based, privacy-centric framework for attribution and ad measurement. It provides aggregated insights to advertisers with no user level data.
 
 -----
 
