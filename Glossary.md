@@ -8,7 +8,7 @@
 * [What is attribution? منسوب إلى](https://www.adjust.com/glossary/attribution/) In mobile app marketing measurement, "attributed to" means assigning or giving credit to a specific marketing channel or campaign for driving an install or engagement.
 * [Reattribution](https://help.adjust.com/en/article/reattribution) is when an inactive user engages with a retargeting campaign, returns to your app, and gets assigned a new source.
 * StoreKit Ad Network, otherwise known as [SKAdNetwork](https://www.adjust.com/glossary/skadnetwork-skan/) or SKAN, is Apple’s API-based, privacy-centric framework for attribution and ad measurement. It provides aggregated insights to advertisers with no user level data.
-
+* Mobile app [user acquisition](https://www.adjust.com/glossary/user-acquisition/) (UA) is the process of bringing new users to an app. It usually refers to driving installs via paid or organic advertising campaigns.
 -----
 
 ### Metrics
