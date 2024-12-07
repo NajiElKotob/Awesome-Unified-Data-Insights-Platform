@@ -9,6 +9,7 @@
 * [Reattribution](https://help.adjust.com/en/article/reattribution) is when an inactive user engages with a retargeting campaign, returns to your app, and gets assigned a new source.
 * StoreKit Ad Network, otherwise known as [SKAdNetwork](https://www.adjust.com/glossary/skadnetwork-skan/) or SKAN, is Apple’s API-based, privacy-centric framework for attribution and ad measurement. It provides aggregated insights to advertisers with no user level data.
 * Mobile app [user acquisition](https://www.adjust.com/glossary/user-acquisition/) (UA) is the process of bringing new users to an app. It usually refers to driving installs via paid or organic advertising campaigns.
+* A [mobile measurement partner (MMP)](https://www.adjust.com/glossary/mobile-measurement-partner-mmp/) is a company that acts as a third-party provider to attribute, collect, and organize app data to deliver a unified overview of a brand’s campaign performance. With an overwhelming volume of campaign data across multiple ad networks, it can be difficult for app marketers to determine which channels, media sources, publishers, or campaigns are leading to conversions. Mobile measurement partners provide marketers with an impartial and accurate overview of mobile attribution by indicating which source should receive credit for driving a conversion.
 -----
 
 ### Metrics
