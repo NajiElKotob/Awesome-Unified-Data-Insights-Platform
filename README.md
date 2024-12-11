@@ -9,6 +9,7 @@
   - [Getting started with Adjust 📺 ~13min](https://help.adjust.com/en/article/getting-started-with-adjust)
   - [API documentation](https://dev.adjust.com/en/api/)
 ### UXCam
+`UXCam is a mobile app analytics partner providing user session recordings, heatmaps, funnel analysis, and event tracking to optimize user experiences and improve app performance.`
 ### Fullstory
 * [Fullstory](https://www.fullstory.com/)
 ### Firebase
