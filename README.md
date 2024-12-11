@@ -3,7 +3,7 @@
 
 ## Mobile Attribution and Tools
 ### Adjust
-`Adjust.com is a mobile measurement platform offering attribution tracking, fraud prevention, analytics, audience segmentation, deep linking, and integrations to optimize marketing campaigns and enhance user engagement.`
+`Adjust.com is a mobile measurement partner 'MMP' offering attribution tracking, fraud prevention, analytics, audience segmentation, deep linking, and integrations to optimize marketing campaigns and enhance user engagement.`
 * [Adjust](https://www.adjust.com/) - adjust.com
   - [Ebooks](https://www.adjust.com/resources/ebooks/) - Learn the ins and outs of mobile app marketing with whitepapers, ebooks, industry guides, and more.
   - [Getting started with Adjust 📺 ~13min](https://help.adjust.com/en/article/getting-started-with-adjust)
