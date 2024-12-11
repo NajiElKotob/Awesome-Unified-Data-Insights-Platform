@@ -25,6 +25,9 @@
 * [Accelerate marketing insights in Power BI](https://supermetrics.com/products/power-bi)
 ### CleverTap
 `Create personalized experiences to retain your most valuable customers, forever, with CleverTap’s All-In-One engagement platform.`
+
+### MoEngage
+
 ### Sprout Social
 `Our all-in-one social media management platform unlocks the full potential of social to transform not just your marketing strategy—but every area of your organization.`
 ### AIM Insights
