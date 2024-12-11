@@ -27,6 +27,7 @@
 `Create personalized experiences to retain your most valuable customers, forever, with CleverTap’s All-In-One engagement platform.`
 
 ### MoEngage
+`MoEngage is a cross-channel customer engagement platform built for marketers and product owners who value agility over cumbersome complexity. We help consumer brands adapt quickly to evolving customer expectations through real-time insights and personalized cross-channel communications.`
 
 ### Sprout Social
 `Our all-in-one social media management platform unlocks the full potential of social to transform not just your marketing strategy—but every area of your organization.`
