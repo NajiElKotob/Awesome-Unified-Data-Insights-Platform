@@ -1,7 +1,7 @@
 # Unified Data Insights Platform
 
 
-## Mobile Attribution and Tools
+## Mobile Attribution, Analytics and Tools
 ### Adjust
 `Adjust.com is a mobile measurement partner 'MMP' offering attribution tracking, fraud prevention, analytics, audience segmentation, deep linking, and integrations to optimize marketing campaigns and enhance user engagement.`
 * [Adjust](https://www.adjust.com/) - adjust.com
@@ -29,7 +29,8 @@
 `Our all-in-one social media management platform unlocks the full potential of social to transform not just your marketing strategy—but every area of your organization.`
 ### AIM Insights
 `Obtain a multilingual analysis of brand interactions, consumer sentiment toward your brand.`
-
+### Insider
+`[Insider](https://useinsider.com) is a customer experience platform that excels in advanced segmentation and customer profiling, enabling businesses to create highly detailed audience segments and comprehensive customer profiles by leveraging behavioral, demographic, and transactional data. These capabilities empower brands to deliver personalized, data-driven marketing campaigns across multiple channels, supported by AI-powered predictive analytics and journey orchestration. Insider helps businesses drive growth, enhance customer engagement, and achieve exceptional retention rates.`
 
 -----
 ## Cloud Ecosystems
