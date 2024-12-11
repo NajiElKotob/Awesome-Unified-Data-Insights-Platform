@@ -8,6 +8,7 @@
   - [Ebooks](https://www.adjust.com/resources/ebooks/) - Learn the ins and outs of mobile app marketing with whitepapers, ebooks, industry guides, and more.
   - [Getting started with Adjust 📺 ~13min](https://help.adjust.com/en/article/getting-started-with-adjust)
   - [API documentation](https://dev.adjust.com/en/api/)
+  - [Datascape metrics](https://help.adjust.com/en/article/datascape-metrics-glossary) 🔥
 ### UXCam
 `UXCam is a mobile app analytics partner providing user session recordings, heatmaps, funnel analysis, and event tracking to optimize user experiences and improve app performance.`
 ### Fullstory
