@@ -50,6 +50,8 @@
 * [Amazon Web Services (AWS)](https://aws.amazon.com/) - aws.amazon.com
 * [AWS Architecture Center](https://aws.amazon.com/architecture/?cards-all.sort-by=item.additionalFields.sortDate&cards-all.sort-order=desc&awsf.content-type=*all&awsf.methodology=*all&awsf.tech-category=*all&awsf.industries=*all&awsf.business-category=*all)
 
+### Alibaba Cloud
+* [Alibaba Cloud](https://www.alibabacloud.com/) - alibabacloud.com
 -----
 ## General Knowledge
 ### Unique ID
