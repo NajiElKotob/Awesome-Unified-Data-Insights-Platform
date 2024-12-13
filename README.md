@@ -54,6 +54,10 @@
 
 ### Alibaba Cloud
 * [Alibaba Cloud](https://www.alibabacloud.com/) - alibabacloud.com
+
+### Oracle Cloud
+* [Oracle Cloud Infrastructure (OCI)](https://www.oracle.com/cloud/)
+  
 -----
 ## General Knowledge
 ### Unique ID
