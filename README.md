@@ -11,6 +11,10 @@
   - [Datascape metrics](https://help.adjust.com/en/article/datascape-metrics-glossary) 🔥
 ### UXCam
 `UXCam is a mobile app analytics partner providing user session recordings, heatmaps, funnel analysis, and event tracking to optimize user experiences and improve app performance.`
+
+### Hotjar
+* [Hotjar](https://www.hotjar.com) - hotjar.com | Everything you ever wanted to know about your website or app
+  
 ### Fullstory
 * [Fullstory](https://www.fullstory.com/)
 ### Firebase
