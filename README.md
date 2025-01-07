@@ -63,6 +63,11 @@
 
 ### Oracle Cloud
 * [Oracle Cloud Infrastructure (OCI)](https://www.oracle.com/cloud/)
+
+-----
+
+## Tools
+* [Ad Calculators](https://theonlineadvertisingguide.com/ad-calculators/)
   
 -----
 ## General Knowledge
