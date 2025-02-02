@@ -30,6 +30,11 @@
 * [Accelerate marketing insights in Power BI](https://supermetrics.com/products/power-bi)
 * Data Sources Tutorials
   - [Supermetrics for Google Sheets 📺](https://www.youtube.com/playlist?list=PL7lylzOzI1Kk4DZy5z34yMi2-dMljPMDi)
+
+### Fivetran
+`From start-ups to global enterprises, the Fivetran data movement platform unlocks innovation by accelerating insights, optimizing operations, and powering data-driven decisions.`
+* [Fivetran](https://www.fivetran.com/) - fivetran.com
+  
 ### CleverTap
 `Create personalized experiences to retain your most valuable customers, forever, with CleverTap’s All-In-One engagement platform.`
 
